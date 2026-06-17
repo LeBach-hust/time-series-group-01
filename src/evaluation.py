@@ -54,11 +54,3 @@ def evaluate_and_save_metrics(y_true, y_pred, output_path='metrics.csv'):
     print(f"[INFO] Đã tính toán xong và lưu 4 chỉ số đánh giá vào: {output_path}")
     
     return metrics_dict
-
-# Khối code chạy thử nghiệm
-if __name__ == "__main__":
-    y_thuc_te = [100, 150, 200, 250, 300]
-    y_du_doan = [105, 145, 190, 260, 295]
-    
-    ket_qua = evaluate_and_save_metrics(y_thuc_te, y_du_doan)
-    print("Kết quả chi tiết:", ket_qua)
