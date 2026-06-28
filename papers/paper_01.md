@@ -1,7 +1,3 @@
-**Chủ đề: Cải tiến mô hình TimeXer (hàm mất mát + xử lý biến ngoại sinh) — dự báo chuỗi thời gian đa biến, đầu ra một chiều**
-
-## BÀI 1 — Mô hình lõi
-
 **Tên bài báo:** TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables
 
 **Tác giả:** Y. Wang, H. Wu, J. Dong, G. Qin, H. Zhang, Y. Liu, Y. Qiu, J. Wang, M. Long — THUML, Đại học Thanh Hoa
